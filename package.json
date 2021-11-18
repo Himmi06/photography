@@ -1,0 +1,17 @@
+{
+  "name": "photography-website-master",
+  "version": "1.0.0",
+  "description": "this is pro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "himmanshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
